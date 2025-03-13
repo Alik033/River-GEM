@@ -1,12 +1,12 @@
 # [River-GEM: Generating and Enhancing Muddy Water Images](https://ieeexplore.ieee.org/document/10887847)
 
-This paper has been accepted in ICASSP 2025
+**This paper has been accepted in ICASSP 2025.**
 
 ![Block](river-gem.png)
 
-The checkpoint and dataset are available in this [link](https://drive.google.com/drive/folders/1IVHIOA5vetXzmS-TNSw8PMQIjLeak88v?usp=drive_link).
+**The checkpoint and dataset are available in this [link](https://drive.google.com/drive/folders/1IVHIOA5vetXzmS-TNSw8PMQIjLeak88v?usp=drive_link).**
 
-Requirements are given below.
+**Requirements are given below.**
 ```
 Python 3.5.2
 Pytorch '1.0.1.post2'
